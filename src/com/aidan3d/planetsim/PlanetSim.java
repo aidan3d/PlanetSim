@@ -21,7 +21,7 @@ public class PlanetSim extends javax.swing.JFrame {
      * @returns a new PlanetSim JFrame-derived object
      */
     public PlanetSim() {
-        // set up the Swing gui components
+        // set up the Swing GUI components
         initComponents();
     }
 

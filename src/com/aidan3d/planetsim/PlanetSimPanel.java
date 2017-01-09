@@ -4,8 +4,6 @@
  */
 package com.aidan3d.planetsim;
 
-import GamePanel.GamePanel;             // a Swing JPanel-derived object
-
 import java.awt.Color;                  // used for the color enumerations (e.g., .white)
 import java.awt.Font;
 import java.awt.FontMetrics;
